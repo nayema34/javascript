@@ -1,9 +1,9 @@
-let ruhul=["Ruhul Amin","Web Developer","Bangladesh"];
+let nayema=["Nayema Jannat","Web Developer","Bangladesh"];
 
 
-ruhul.push("Dhaka");
-ruhul.push("JavaScript Developer");
+nayema.push("Dhaka");
+nayema.push("JavaScript Developer");
 
-ruhul.unshift("Mr.");
+nayema.unshift("Mrs.");
 
-console.log(ruhul);
+console.log(nayema);
